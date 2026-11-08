@@ -1,7 +1,7 @@
 
 /*
  * SRAM Built-In Self-Test (BIST)
- * Seher Mian
+ * Seher Mian & Huzaim Malik
  * October 8, 2026
  *
  * Description:
