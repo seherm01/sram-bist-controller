@@ -1,6 +1,7 @@
 # SRAM Built-In Self-Test (BIST)
 
-
+# Authors
+Seher Mian & Huzaim Malik
 
 # Overview
 
